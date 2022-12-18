@@ -6,3 +6,6 @@ Website Link: https://an-ongoing-genocide.me/
 Built using HTML and CSS with the help from tutorials on GeeksForGeeks and W3.
 
 Coder: Bonsu Tutu
+
+Link to text and image sources:
+https://docs.google.com/document/d/e/2PACX-1vT2ag1i1zqMSQzbb10WSeNvBWRJ5IS04Fl3J6_JR5S-3Oejg0QyukEVT1moO-lZgULPnQuTxemT9F_K/pub
